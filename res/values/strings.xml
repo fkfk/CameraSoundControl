@@ -1,0 +1,15 @@
+<resources>
+
+  <string name="app_name">CameraSoundControl</string>
+  <string name="app_name_settings">CameraSoundControl Setting</string>
+  <string name="app_desc">Control camera sound option.</string>
+  <string name="system_wide_setting_key">system-wide_setting</string>
+  <string name="system_wide_setting_title">System-wide Camera shutter sound policy</string>
+  <string name="system_wide_setting_on">Sound on FORCED.</string>
+  <string name="system_wide_setting_off">Follow the device setting.</string>
+  <string name="htccamera_setting_key">htccamera_setting</string>
+  <string name="htccamera_setting_title">HTCCamera "Shutter Sound" option</string>
+  <string name="htccamera_setting_on">Enable</string>
+  <string name="htccamera_setting_off">Disable</string>
+
+</resources>

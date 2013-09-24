@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+  <CheckBoxPreference   
+    android:key="@string/system_wide_setting_key"  
+    android:title="@string/system_wide_setting_title"   
+    android:summaryOn="@string/system_wide_setting_on"  
+    android:summaryOff="@string/system_wide_setting_off" 
+    android:defaultValue="false" />
+  <CheckBoxPreference   
+    android:key="@string/htccamera_setting_key"  
+    android:title="@string/htccamera_setting_title"   
+    android:summaryOn="@string/htccamera_setting_on"  
+    android:summaryOff="@string/htccamera_setting_off" 
+    android:defaultValue="true" />
+</PreferenceScreen>
